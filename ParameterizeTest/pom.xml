@@ -36,7 +36,7 @@
     </parent>
 
     <artifactId>ParameterizeTest</artifactId>
-    <name>ParameterizeTest</name>
+    <name>ParameterizeTests</name>
 
     <dependencies>
         <dependency>
