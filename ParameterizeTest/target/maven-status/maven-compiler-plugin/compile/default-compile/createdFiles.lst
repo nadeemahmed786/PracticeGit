@@ -1,0 +1,8 @@
+org\graphwalker\PageObjectModels\LoginPage.class
+org\graphwalker\Helper.class
+org\graphwalker\PageObjectModels\Dashboard.class
+org\graphwalker\PageObjectModels\PageObjectModelBase.class
+org\graphwalker\TemplateTest.class
+org\graphwalker\DataReader.class
+org\graphwalker\Template.class
+org\graphwalker\Config.class
